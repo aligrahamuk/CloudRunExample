@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudRunExample", "CloudRunExample\CloudRunExample.csproj", "{B6C45333-4F69-48D1-AD99-3933F4A6E490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudRunExample.Infrastructure", "CloudRunExample.Infrastructure\CloudRunExample.Infrastructure.csproj", "{78091EC0-3C41-49D7-A3E8-41575BF95FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C45333-4F69-48D1-AD99-3933F4A6E490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C45333-4F69-48D1-AD99-3933F4A6E490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C45333-4F69-48D1-AD99-3933F4A6E490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C45333-4F69-48D1-AD99-3933F4A6E490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78091EC0-3C41-49D7-A3E8-41575BF95FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78091EC0-3C41-49D7-A3E8-41575BF95FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78091EC0-3C41-49D7-A3E8-41575BF95FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78091EC0-3C41-49D7-A3E8-41575BF95FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF6FED0B-360F-4C7F-9C3F-1B9B3648AB77}
+	EndGlobalSection
+EndGlobal
